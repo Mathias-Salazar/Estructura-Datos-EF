@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|solutionrelative:laprueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|solutionrelative:laprueba\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|solutionrelative:laprueba\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02B1EB2-68B2-479B-96B5-6D67139B269E}|laprueba\\laprueba.csproj|solutionrelative:laprueba\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Program.cs",
+              "RelativeDocumentMoniker": "laprueba\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Program.cs",
+              "RelativeToolTip": "laprueba\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wHIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T17:10:33.294Z",
+              "IsPinned": true,
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Nodo.cs",
+              "RelativeDocumentMoniker": "laprueba\\Nodo.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Nodo.cs",
+              "RelativeToolTip": "laprueba\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T17:47:21.596Z",
+              "IsPinned": true,
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Transferencia.cs",
+              "RelativeDocumentMoniker": "laprueba\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\Transferencia.cs",
+              "RelativeToolTip": "laprueba\\Transferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:36:58.797Z",
+              "IsPinned": true,
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArbolBinario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\ArbolBinario.cs",
+              "RelativeDocumentMoniker": "laprueba\\ArbolBinario.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\prueba\\laprueba\\laprueba\\ArbolBinario.cs",
+              "RelativeToolTip": "laprueba\\ArbolBinario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T16:43:51.525Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

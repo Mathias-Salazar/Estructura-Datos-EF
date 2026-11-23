@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\bin\Debug\laprueba.exe.config
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\bin\Debug\laprueba.exe
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\bin\Debug\laprueba.pdb
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\obj\Debug\laprueba.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\obj\Debug\laprueba.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\obj\Debug\laprueba.exe
+C:\Users\PC\Downloads\prueba\laprueba\laprueba\obj\Debug\laprueba.pdb
